@@ -1,0 +1,50 @@
+[
+    {
+        "id": 0,
+        "title": "Algabo jabon liquido",
+        "img": "https://perfumeriaspigmento.com.ar/media/catalog/product/cache/image/620x678/e9c3970ab036de70892d86c6d221abfe/7/7/77589.jpg",
+        "price": "$90,50"
+    },
+    {
+        "id": 1,
+        "title": "Algabo jabon liquido",
+        "img": "https://jumboargentina.vteximg.com.br/arquivos/ids/197415-750-750/Jabon-Liquido-Algabo-Jabon-Liquido-Algabo-Floral-Rain-Repuesto-300-Ml-1-33786.jpg?v=636383591411100000",
+        "price": "$54,50"
+    },
+    {
+        "id": 2,
+        "img": "https://farmaonline.vteximg.com.br/arquivos/ids/221897-0-0/8038720_0_3c466c11fe6e8eed380d8d791507d493.jpg?v=637270573219230000",
+        "title": "Estuche Kevin",
+        "price": "$1.250,00"
+    },
+    {
+        "id": 3,
+        "img": "https://farmaonline.vteximg.com.br/arquivos/ids/226067-0-0/8032722_0_e2cf1d96d0445d1121b35b65cb3f27c3.jpg?v=637296766961870000",
+        "title": "Polo Neceser Rojo",
+        "price": "$2.038,00"
+    },
+    {
+        "id": 4,
+        "img": "https://cdn.batitienda.com/baticloud/images/product_802343983ada405eadff67517c5e4c75_637418917459944458_0_m.jpg",
+        "title": "Cicatricure Reparacion",
+        "price": "$436,00"
+    },
+    {
+        "id": 5,
+        "img": "https://d2r9epyceweg5n.cloudfront.net/stores/001/174/751/products/6302005_0_2d8fe6bc5cc8e0b4852d6d07b9741cfe-35eb5723b2709321a915889651059883-1024-1024.jpg",
+        "title": "919 Kit Tintura",
+        "price": "$211,60"
+    },
+    {
+        "id": 6,
+        "img": "https://perfumeriaspigmento.com.ar/media/catalog/product/cache/image/620x678/e9c3970ab036de70892d86c6d221abfe/6/5/65406.jpg",
+        "title": "Inecto Kit Tintura",
+        "price": "$210,00"
+    },
+    {
+        "id": 7,
+        "img": "https://www.farmacialeloir.com.ar/img/articulos/tio_nacho_herbolaria_milenaria_shampoo_x_415ml_1_imagen1.jpg",
+        "title": "Tio Nacho Sh herbolaria",
+        "price": "$376,00"
+    }
+]
